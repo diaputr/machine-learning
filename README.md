@@ -6,3 +6,4 @@ Semester 5 ^^
 4. Klasifikasi
 5. Kuis
 6. Ensemble Learning
+7. Clustering
