@@ -8,5 +8,5 @@ Semester 5 ^^
 6. Ensemble Learning
 7. Clustering
 8. UTS
-9.  Perceptron & Artificial Neural Network
-10. Recurrent Neural Network
+9.  Perceptron & Artificial Neural Network (ANN)
+10. Recurrent Neural Network (RNN)
